@@ -1,12 +1,12 @@
 {
-  "name": "Catatan Jualan",
-  "short_name": "Jualan",
-  "description": "Catat penjualan, stok barang, dan kasbon secara otomatis.",
+  "name": "Jualan Mudah",
+  "short_name": "Jualan Mudah",
+  "description": "Catat penjualan, stok, kasbon, kas, dan laporan harian dengan mudah.",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
-  "background_color": "#f4f6f6",
+  "background_color": "#ffffff",
   "theme_color": "#0f766e",
   "lang": "id",
   "icons": [

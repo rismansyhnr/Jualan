@@ -1,4 +1,4 @@
-const C = 'jualan-v1';
+const C = 'jualan-mudah-v2';
 const A = ['./', 'index.html', 'manifest.json', 'icon-192.png', 'icon-512.png'];
 
 self.addEventListener('install', e => {
